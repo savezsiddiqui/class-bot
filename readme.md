@@ -10,7 +10,11 @@ First dictionary in the array is Monday, similarly second one is Tuesday, and so
         email = 'your institute mail'
         pword = 'your password'
 
-3. run 'python main.py' in a terminal to start the bot.
+3. open a terminal and type the following command:
+
+        pip install selenium
+
+4. run 'python main.py' in a terminal to start the bot.
 
 
 ### Note:
