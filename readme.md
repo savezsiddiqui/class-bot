@@ -7,7 +7,7 @@ First dictionary in the array is Monday, similarly second one is Tuesday, and so
 
 2. Create a new file 'creds.py' and add the following lines:
 
-        email = 'your institute mail'<br>
+        email = 'your institute mail'
         pword = 'your password'
 
 3. run 'python main.py' in a terminal to start the bot.
